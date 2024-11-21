@@ -1,4 +1,4 @@
-# Nom du Projet
+# Orgaznier-Project V1
 ![Capture d'écran](screenshot.png)
 ## Informations Projet
 - Version : 1.0.0

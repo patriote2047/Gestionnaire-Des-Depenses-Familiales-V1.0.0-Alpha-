@@ -1,4 +1,4 @@
-# OrgaZiner_Project V1
+# Gestionnaire de Dépenses Familial V1.0.0 Alpha (en développement)
 ![Capture d'écran](screenshot.png)
 ## Informations Projet
 - Version : 1.0.0

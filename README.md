@@ -1,5 +1,5 @@
-# Gestionnaire de Dépenses Familial
-
+# Nom du Projet
+![Capture d'écran](screenshot.png)
 ## Informations Projet
 - Version : 1.0.0
 - Statut : En développement

@@ -1,4 +1,4 @@
-# Orgaznier-Project V1
+# OrgaZiner_Project V1
 ![Capture d'écran](screenshot.png)
 ## Informations Projet
 - Version : 1.0.0
